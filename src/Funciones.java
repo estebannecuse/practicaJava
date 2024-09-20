@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class Funciones {
 
     //defino fun saludo
@@ -28,12 +30,25 @@ public class Funciones {
         }
     }
 
+
+
     public static void main(String[] args) {
-        saludar("Hola");
+        //saludar("Hola");
         
         int arg1 = 5, arg2 = 7;
         //System.out.println(sumar(arg1,arg2));
         //System.out.println(esPar(3));
-        fucionRecursiva(5);
+        //fucionRecursiva(5);
+
+        // extraer subcadenas 
+        String cadena = "Hola mundo";
+        System.out.println(cadena.substring(0, 4)); // Hola
+        System.out.println(cadena.substring(5, 10)); // mundo
+
+        // funcion numeros aleatorios 
+        Random aleatorio = new Random();
+        //generar valores entre 0 y 100 
+        int valorAleatorio = aleatorio.nextInt(100,200+1); // se proporciona solo el valor limite
+        System.out.println(valorAleatorio);
     }
 }
