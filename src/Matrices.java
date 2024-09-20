@@ -1,3 +1,5 @@
+//import java.util.Scanner;
+
 import java.util.Scanner;
 
 public class Matrices {
@@ -60,5 +62,19 @@ public class Matrices {
                 System.out.println();
             }
         }
+
+
+        //ejercicio sumar diagonal 
+        int[][] matrizSuma = {{100,200,300},{400,500,600},{700,800,900}};
+        int total = 0;
+        for(int ren = 0; ren < matrizSuma.length ; ren++){
+            for(int col = 0; col< matrizSuma[ren].length ; col++){
+                if(ren == col){
+                    total += matrizSuma[ren][col];
+                }
+            }
+        }
+        System.out.println("Total suma : " + total);
+
     }
 }
