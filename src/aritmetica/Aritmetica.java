@@ -1,3 +1,4 @@
+package aritmetica;
 public class Aritmetica {
 
     int operando1;
