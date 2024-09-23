@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ciclos/Ciclos.iml" filepath="$PROJECT_DIR$/Ciclos/Ciclos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funciones/Funciones.iml" filepath="$PROJECT_DIR$/Funciones/Funciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij-Curso.iml" filepath="$PROJECT_DIR$/.idea/Intellij-Curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroduccionJava/IntroduccionJava.iml" filepath="$PROJECT_DIR$/IntroduccionJava/IntroduccionJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Persona/Persona.iml" filepath="$PROJECT_DIR$/Persona/Persona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaVentas/SistemaVentas.iml" filepath="$PROJECT_DIR$/SistemaVentas/SistemaVentas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemasAvanzados/TemasAvanzados.iml" filepath="$PROJECT_DIR$/TemasAvanzados/TemasAvanzados.iml" />
+    </modules>
+  </component>
+</project>
